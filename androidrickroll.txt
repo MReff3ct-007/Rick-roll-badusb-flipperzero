@@ -1,0 +1,12 @@
+GUI b
+DELAY 600
+STRING chrome
+ENTER
+DELAY 1000
+CTRL l
+DELAY 100
+STRING https://www.youtube.com/watch?v=dQw4w9WgXcQ
+DELAY 100
+ENTER
+DELAY 500
+STRING f
