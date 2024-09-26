@@ -46,6 +46,3 @@ Instructions on how to install the payload onto your Flipper Zero:
 4. **Connect and Deploy:**
    - Connect the Flipper Zero to the target device via USB, or use Bluetooth.
    - Execute the payload from the Flipper Zero interface.
-
-## <a name="demo"></a> Demo
-Video demo link to showcase the RickRoll in action!
